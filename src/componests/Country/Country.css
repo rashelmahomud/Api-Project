@@ -1,0 +1,14 @@
+.CountryBox{
+    background-color: aliceblue;
+    border: 2px solid yellow;
+    padding: 20px;
+    margin: 20px;
+    
+}
+.countrysContainer{
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+
+}
